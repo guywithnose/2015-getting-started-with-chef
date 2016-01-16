@@ -1,0 +1,3 @@
+Getting started with Chef
+
+Chef makes it easy to manage a large number of servers without having a lot of manual actions.  From code deployment to software updates, Chef takes the pain out of scaling up your infrastructure.  In this talk we'll cover the basics of getting Chef installed as well where to find and how to set up all the components you'll need to get going.

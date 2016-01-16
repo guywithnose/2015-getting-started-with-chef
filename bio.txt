@@ -1,0 +1,4 @@
+Anthony has always loved computers and has been writing code since he was 12
+years old.  While working for Trader Online team for the last 3 years as a PHP
+developer, he has contributed to 8 award-winning hackathon projects.  In his
+spare time he enjoys gaming, programming, and solving Rubik's cubes.
